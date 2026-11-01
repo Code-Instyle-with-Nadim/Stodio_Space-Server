@@ -1,0 +1,111 @@
+[
+  {
+    "title": "The Daylight Loft",
+    "category": "Photo Studio",
+    "hourlyRate": 95,
+    "securityDeposit": 150,
+    "maxCapacity": 12,
+    "location": "Brooklyn, New York",
+    "imageUrl": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1200&q=85",
+    "images": [
+      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1200&q=85",
+      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200&q=85"
+    ],
+    "amenities": [
+      "Natural light",
+      "Lighting kit",
+      "Makeup station",
+      "Wi-Fi",
+      "Air conditioning"
+    ],
+    "overview": "A sun-washed creative loft with generous north-facing windows, flexible shooting zones and a calm, considered atmosphere. Ideal for portraits, product campaigns and editorial work.",
+    "rating": 4.9,
+    "reviewCount": 38,
+    "hostName": "Jordan Lee"
+  },
+  {
+    "title": "Noir Sound Stage",
+    "category": "Film Stage",
+    "hourlyRate": 180,
+    "securityDeposit": 300,
+    "maxCapacity": 25,
+    "location": "Queens, New York",
+    "imageUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1200&q=85",
+    "images": [],
+    "amenities": ["Soundproofing", "Green screen", "Lighting kit", "Parking"],
+    "overview": "A flexible production stage built for ambitious shoots. Blackout-ready walls, adaptable lighting and room for a full crew make production days run smoothly.",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "hostName": "Maya Chen"
+  },
+  {
+    "title": "The Listening Room",
+    "category": "Podcast Lounge",
+    "hourlyRate": 65,
+    "securityDeposit": 80,
+    "maxCapacity": 6,
+    "location": "Manhattan, New York",
+    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=1200&q=85",
+    "images": [],
+    "amenities": [
+      "Soundproofing",
+      "Wi-Fi",
+      "Air conditioning",
+      "Changing room"
+    ],
+    "overview": "A warm, acoustically treated podcast lounge with a relaxed set and professional recording environment. Bring your conversation; the room is ready.",
+    "rating": 5.0,
+    "reviewCount": 19,
+    "hostName": "Sam Rivera"
+  },
+  {
+    "title": "Analog House",
+    "category": "Music Suite",
+    "hourlyRate": 110,
+    "securityDeposit": 200,
+    "maxCapacity": 8,
+    "location": "Los Angeles, California",
+    "imageUrl": "https://images.unsplash.com/photo-1593078166035-9c7e2d4f9b2d?w=1200&q=85",
+    "images": [],
+    "amenities": ["Soundproofing", "Wi-Fi", "Air conditioning", "Parking"],
+    "overview": "An intimate recording suite with character, comfortable monitoring space and room to experiment. A thoughtful home for demos, vocals and independent sessions.",
+    "rating": 4.7,
+    "reviewCount": 31,
+    "hostName": "Alex Morgan"
+  },
+  {
+    "title": "Form & Foundry",
+    "category": "Workshop",
+    "hourlyRate": 72,
+    "securityDeposit": 100,
+    "maxCapacity": 14,
+    "location": "Portland, Oregon",
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=1200&q=85",
+    "images": [],
+    "amenities": ["Natural light", "Parking", "Air conditioning", "Wi-Fi"],
+    "overview": "A bright makers workshop with open tables, creative energy and space to get hands-on. Great for small classes, craft sessions and collaborative projects.",
+    "rating": 4.9,
+    "reviewCount": 16,
+    "hostName": "Taylor Brooks"
+  },
+  {
+    "title": "Cyc Studio West",
+    "category": "Photo Studio",
+    "hourlyRate": 125,
+    "securityDeposit": 180,
+    "maxCapacity": 10,
+    "location": "Austin, Texas",
+    "imageUrl": "https://images.unsplash.com/photo-1531058020387-3be344556be6?w=1200&q=85",
+    "images": [],
+    "amenities": [
+      "Cyclorama wall",
+      "Lighting kit",
+      "Makeup station",
+      "Parking"
+    ],
+    "overview": "A clean white cyc wall studio for fashion, product and commercial work. Plenty of room for lighting setups and a streamlined crew workflow.",
+    "rating": 4.8,
+    "reviewCount": 27,
+    "hostName": "Chris Patel"
+  }
+]
